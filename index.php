@@ -117,27 +117,27 @@
 							</span>
 							<div class="section-exp">
 								<h4>Разработка сайта под DLE для интернет провайдера SaltNet</h4>
-								<h6>Обязаность: web-design / html-css coder</h6>
+								<h6>Обязанность: web-design / html-css coder</h6>
 							</div>
 							
 							<div class="section-exp">
 								<h4>Проектная работа в университете, разработка интернет магазина</h4>
-								<h6>Обязаность: web-design / html-css coder / backend developer </h6>
+								<h6>Обязанность: web-design / html-css coder / backend developer </h6>
 							</div>
 
 							<div class="section-exp">
 								<h4>Проектная работа в университете, разработка андроид приложения</h4>
-								<h6>Обязаность: Ui/Ux design / android developer </h6>
+								<h6>Обязанность: Ui/Ux design / android developer </h6>
 							</div>
 
 							<div class="section-exp">
-							<h4>Летняя практика в Digital cloud technology</h4>
-							<h6>Обязаность: web-design / html-css coder под Wordpress</h6>
+							<h4>Летняя практика в компании Digital Cloud Technologies</h4>
+							<h6>Обязанность: web-design / html-css coder под Wordpress</h6>
 							</div>
 
 							<div class="section-exp" id="section-exp__last">
 								<h4>Дипломная работа: Разработка веб-приложения "SkatchPad" </h4>
-								<h6>Обязаность: Full-stack developer</h6>
+								<h6>Обязанность: Full-stack developer</h6>
 								<h4>
 									Технологии которые использовались при выполнении дипломной работы: Python, Django Framework, HTML5/CSS3, Bootstrap 3, Javascript.
 								</h4>
@@ -182,11 +182,11 @@
 					<div class="resume-icon">
 						<h4 class="title-resume">Cкачать</h4>
 						<span class="download-resume">
-							<a href="#"><img src="img/doc-file.png"></a>
+							<a href="https://drive.google.com/drive/u/1/my-drive"><img src="img/doc-file.png"></a>
 						</span>
 
 						<span class="download-resume">
-							<a href="#"><img src="img/pdf-file.png"></a>
+							<a href="https://drive.google.com/drive/u/1/folders/1MJWvcpja3AfVn5VrhFp6Mdq6FAFHbM-H"><img src="img/pdf-file.png"></a>
 						</span>
 					</div>
 
