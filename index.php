@@ -56,9 +56,15 @@
 				</div>
 			</div>
 			<div class="selector-menu">
-				<div class="circle_1"></div>
-				<div class="circle_2 circle_active"></div>
-				<div class="circle_3"></div>
+				<a href="#home" data-target="anchor">
+					<div class="circle_1"></div>
+				</a>
+				<a href="#about-me" data-target="anchor">
+					<div class="circle_2 circle_active"></div>
+				</a>
+				<a href="#contact" data-target="anchor">
+					<div class="circle_3"></div>
+				</a>
 			</div>
 				<div class="about-me-content">
 					<div class="about-me-photo wow fadeInDown"></div>
@@ -81,6 +87,7 @@
 								Я Сиващенко Андрей Русланович 05.01.1996 года рождения. Родился в городе Соледар. С 11 класса заинтересовался веб-разработкой.На данный момент продолжаю развиваться в этой сфере. Мне интересно изучать что-то новое. Первый мой опыт по разработке веб-сайтов — была разработка сайта-визитки для местного интернет-провайдера.
 								С 2013г учусь в Харьковском Национальном Университете Радиоэлектроники по специальности Программная Инженерия.
 								В университете был опыт по разработке андроид приложения, а также по одной из дисциплин разрабатывал интернет магазин. На летней практике проходил стажировку в фирме Digital Cloud Technologies, где разрабатывал шаблоны для Wordpress. На 4-м курсе университета на дипломную работу разрабатывал веб-приложение. Я использовал такие технологии как : Python, Django Framework, HTML5/CSS3, Bootstrap3, Javascript, Jquery и Аjax. В 2017г получил степень бакалавра по направлению Программная Инженерия. На данный момент учусь в Харьковском Национальном Университете Радиоэлектроники,получаю степень Магистра. Учусь по специальности: Project Manager. Мои личные качества: Пунктуальность, ответственность, доброжелательность, умение планировать свое время.
+	
 						</p>
 						</section>
 
@@ -298,9 +305,15 @@
 				</div>
 			</div>
 			<div class="selector-menu">
-				<div class="circle_1 circle-1__footer wow fadeInLeft"></div>
-				<div class="circle_2 circle-2__footer "></div>
-				<div class="circle_3 circle-3__footer circle_active__footer wow fadeInRight"></div>
+				<a href="#home" data-target="anchor">
+					<div class="circle_1 circle-1__footer wow fadeInLeft"></div>
+				</a>
+				<a href="#about-me" data-target="anchor">
+					<div class="circle_2 circle-2__footer "></div>
+				</a>
+				<a href="#contact" data-target="anchor">
+					<div class="circle_3 circle-3__footer circle_active__footer wow fadeInRight"></div>
+				</a>
 			</div>
 			<div class="col-md-6 footer-title">
 				<h2>My mobile phone</h2>
