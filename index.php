@@ -3,10 +3,11 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>My Portfolio</title>
+	<title>Sivaschenko Andrey Web-developer</title>
 	<link rel="stylesheet" type="text/css" href="style/style.css">
 	<link rel="stylesheet" type="text/css" href="style/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="style/animate.css">
+	<link rel="icon" href="img/favicon.ico" type="image/x-icon" />
 	  <script src="js/wow.min.js"></script>
 	  <script>
 	    new WOW().init();
