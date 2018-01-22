@@ -56,13 +56,13 @@
 				</div>
 			</div>
 			<div class="selector-menu">
-				<a href="#home" data-target="anchor">
+				<a class="links-sel" href="#home" data-target="anchor">
 					<div class="circle_1"></div>
 				</a>
-				<a href="#about-me" data-target="anchor">
+				<a class="links-sel" href="#about-me" data-target="anchor">
 					<div class="circle_2 circle_active"></div>
 				</a>
-				<a href="#contact" data-target="anchor">
+				<a class="links-sel" href="#contact" data-target="anchor">
 					<div class="circle_3"></div>
 				</a>
 			</div>
@@ -305,13 +305,13 @@
 				</div>
 			</div>
 			<div class="selector-menu">
-				<a href="#home" data-target="anchor">
+				<a class="links-sel"  href="#home" data-target="anchor">
 					<div class="circle_1 circle-1__footer wow fadeInLeft"></div>
 				</a>
-				<a href="#about-me" data-target="anchor">
+				<a class="links-sel" href="#about-me" data-target="anchor">
 					<div class="circle_2 circle-2__footer "></div>
 				</a>
-				<a href="#contact" data-target="anchor">
+				<a class="links-sel"  href="#contact" data-target="anchor">
 					<div class="circle_3 circle-3__footer circle_active__footer wow fadeInRight"></div>
 				</a>
 			</div>
@@ -359,6 +359,7 @@
 		crossorigin="anonymous"></script>
 <script src="js/skills.js"></script>
 <script src="js/scroll.js"></script>
+<script src="js/hover-selectors.js"></script>
 </body>
 </html>
 

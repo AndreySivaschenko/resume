@@ -100,10 +100,11 @@ html{
 }
 
 .header-menu_border{
-	width: 378px;
+	min-width: 370px;
+	width: 26%;
 	height: 2px;
 	border: none;
-	margin: 12px auto;
+	margin: 10px auto;
 	background-color: #fff;
 
 }
@@ -234,7 +235,21 @@ html{
 	border-radius: 50% 50%;
 	background: #b3b3b3;
 	margin-left: 5px;
+	transition: 0.8s;
 }
+
+.circle_1:hover,
+.circle_2:hover,
+.circle_3:hover{
+	background:#181f23;
+}
+
+.circle-1__footer:hover,
+.circle-2__footer:hover,
+.circle-3__footer:hover{
+	background: #142d59;
+}
+
 .circle_active{
 	width: 15px;
 	height: 15px;
@@ -242,6 +257,11 @@ html{
 	border-radius: 50% 50%;
 	background: #34414e;
 	margin-left: 5px;
+}
+
+.links-sel:hover{
+	color: transparent;
+	text-decoration: none;
 }
 
 .about-me-photo{
@@ -883,6 +903,13 @@ footer{
 
 
 @media (min-width: 1025px) and (max-width: 1280px) {
+		
+		.header-menu_border {
+   			min-width: 300px;
+   		 	width: 28%;
+    		margin: 12px auto;
+		}
+
 		.section-aboutMe-title img{
 		    width: 35px;
 		    height: auto;
@@ -978,8 +1005,6 @@ footer{
 	    margin-top: -13px;
 	    margin-bottom: 10px;
 	}
-
-	.footer-title{}
 	
 	#soc-title{
 		text-align: center;
@@ -1046,8 +1071,9 @@ footer{
 	}
 
 	.header-menu_border{
-		min-width: 274px;
-	    width: 34%;
+		min-width: 270px;
+	    width: 33%;
+	   	margin: 11px auto;
 	}
 
 	.about-me-photo{
@@ -1168,9 +1194,14 @@ footer{
 	
 
 	.header-menu_border {
-	    min-width: 250px;
+	    min-width: 240px;
 	    width: 72%;
-	    margin: 11px auto;
+	    margin: 12px auto;
+	}
+
+	.header-menu li a:hover{
+		padding-bottom: none;
+		border-bottom: none;
 	}
 	.about-me-photo{
 		width: 200px;
